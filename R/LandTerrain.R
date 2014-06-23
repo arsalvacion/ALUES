@@ -3,7 +3,7 @@
 #' A dataset containing 2928 Land Units on 10 factors.
 #' 
 #' \itemize{
-#'  \item SlopeD - Slope (degree, 6 classes);
+#'  \item SlopeD - Slope (degree, 6 classes); # Let us us the actual slobe values (0-90) instead of the class
 #'  \item CFragm - Coarse fragment (Vol.%);
 #'  \item SoilDpt - Soil depth (cm);
 #'  \item SoilTe - 12 classes of soil texture (Soil Taxonomy);
